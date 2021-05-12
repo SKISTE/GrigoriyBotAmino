@@ -1,39 +1,74 @@
-## Hi *Username* ;p
-# Header 1
-## Header 2
-### Header 3
-You can use the [editor on GitHub](https://github.com/SKISTE/GrigotiyBotAmino/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Бот для амино чата "Гришана" или же "Григорий"
 
-Zick Daun
+Данный бот был написан Реем, так же в более узких кругах более известным как @skiste.
 
-### Markdown
+Создан он в развлекательных целях и в целях безопасности. На данный момент он состоит в 1 чате.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#Команды
 
-```markdown
-Syntax highlighted code block
+##В планах
+`•!стоп
+•!старт
+•!случсообщ
+•!кто *слово* (берет случайного человека из чата) -WIP-`
 
-# Header 1
-## Header 2
-### Header 3
+##Для админов
+`•!убитьубитьубить - окончательная смерть бота
+⠀
+•!setwelcomemessage - Сделать новое приветственное сообщение в соо (в ответ на сообщение)
+•!welcomeall - Раскинуть всем приветственное сообщение
+⠀
+•!setwelcomechat - Поставить приветственное сообщение в чате(*name* - ввести имя)`
 
-- Bulleted
-- List
+##Информативные
+`•!погода *город*
+•!команды
+•!впланах
+•!справ
+•!информация
+•!admins - узнать кто админы
+•!добпожелание *пожелание что добавить в бота*
+•!бот`
 
-1. Numbered
-2. List
+##П или Д
+`•!колвопилид
+⠀
+•!правда
+•!дейст
+⠀
+•!добвопросдейст
+•!добвопросправда`
 
-**Bold** and _Italic_ and `Code` text
+##Развлекательные
+###Команды с изображениями
+`•!случпикча
+•!добпикча - (в ответ на сообщение с изображением) - добавить картинку в базу
+•!достижение *титульник*:*текст*
+•!случкот - случайная пикча кота
+•!жмых *сила от 1 до 9 (чем меньше, тем сильнее)* (в ответ на картинку) - жмыхнуть картинку
+•!ascii - перевод картинки в формат ascii
+•!gif *текст* - отправляет рандомную гифку с интернета по данному поиску`
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SKISTE/GrigotiyBotAmino/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+###Остальное
+`•!поставитьник *ник*, как к вам будет обращаться бот
+•!убратьник
+⠀
+•!on - Поставить Гришу в сеть
+•!check - Отметить Гришу в соо
+•!гч - Начать гч
+•!стопгч - Выключить гч
+•!втекст *в ответ на сообщение* - переводит гс в текст
+⠀
+•!забив *имя1* *имя2* - забив между двумя людьми
+•!кальк - калькулятор
+•!калькпомощь - помощь с калькулятором
+•!роспись - оставляет роспись на вашей стене
+•!наоборот - разворачивает текст
+•!перевод *код страны* - в ответ на сообщение, по типу en, ru, ch и тд, для списка языков команда !языки
+•!случтекст - генерирует случайный текст
+•!ранд *число 1* *число 2*
+•!ютуб *название видео* - найти видео в ютубе, для последующего добавления в кз
+•!гс - текст в голосовое сообщение
+•!крастекст
+•!вопрос
+`
